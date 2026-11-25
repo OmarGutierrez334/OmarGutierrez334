@@ -55,8 +55,8 @@ omar@cuc:~$ echo $LEMA
 
 <br>
 
-- **[Nombre del proyecto]** → [una línea de qué hace]
-- **[Otro proyecto]** → [una línea de qué hace]
+- **[]** → []
+- **** → []
 
 </details>
 
